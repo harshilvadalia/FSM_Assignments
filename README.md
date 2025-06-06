@@ -24,7 +24,7 @@ Three comprehensive notebooks covering essential ML techniques:
 ```bash
 # Setup
 git clone <repository-url>
-cd "new tp"
+cd "FSM_Assignments"
 pip install numpy pandas matplotlib seaborn jupyter
 
 # Run
@@ -53,11 +53,10 @@ jupyter notebook
 ## 📁 Structure
 
 ```
-new tp/
+FSM_Assignments/
 ├── Unsupervised_Learning.ipynb    # K-Means & PCA
 ├── Supervised-Classification.ipynb # Naive Bayes & KNN  
 ├── Linear_Regression.ipynb        # Regression analysis
-└── datasets/                      # Data files
 ```
 
 ## 💻 Usage Example
